@@ -33,3 +33,4 @@ backend/logs/*
 # Turborepo
 .turbo
 .gstack/
+.omc/
